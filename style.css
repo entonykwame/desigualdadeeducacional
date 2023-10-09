@@ -1,0 +1,26 @@
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    /* background-image: url(https://conceitosdomundo.pt/wp-content/uploads/2021/10/paisagem-rural.jpg);
+    background-repeat:no-repeat;
+    background-position:30% 10% ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 500px 300px;
+    
+*/
+background-image: url(https://static.escolakids.uol.com.br/2020/08/licoes-importantes-escola.jpg);
+background-position: center;
+background-size: cover;
+
+font-style: italic; color: rgb(0, 0, 0);
+
+
+}
+
+p{
+    text-align: justify;
+    margin: 50px;
+}
